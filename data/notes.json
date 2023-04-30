@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "portfolio project",
+      "detail": "create a advance project using mern stack . include features like authentication and authorization with jwt and bycrpt , otp verification with twilio , state management using redux.js , create server using express.js , use cdn for storing medias , use react as frontend framework, material ui as designing the website, include forgot password , email verification  etc......",
+      "category": "Work",
+      "id": 3
+    },
+    {
+      "title": "food delivery app ",
+      "detail": "create a a food delivery app with admin dashboard, user dashboard , restuarant owner dashboard , delivery boy dashboard, include features like authentication and autherisation with jwt and bycrypt , otp validation with twilio , email verification , licensce verification for delivery boys , intergrate online payment like upi , razorpay , intergrate google map api for delivery boys , track order feature , wallet , use mongodb as database , react for frontend framework , express for backend framework , use cdn for storing medias , make clean code and modularize code  , redux for state management . material ui for design  ",
+      "category": "Work",
+      "id": 4
+    },
+    {
+      "title": "Love mom",
+      "detail": "leave your bed space for your mother",
+      "category": "Todos",
+      "id": 5
+    },
+    {
+      "title": "The Alchemist",
+      "detail": "create a a food delivery app with admin dashboard, user dashboard , restuarant owner dashboard , delivery boy dashboard, include features like authentication and autherisation with jwt and bycrypt , otp validation with twilio , email verification , licensce verification for delivery boys , intergrate online payment like upi , razorpay , intergrate google map api for delivery boys , track order feature , wallet , use mongodb as database , react for frontend framework , express for backend framework , use cdn for storing medias , make clean code and modularize code , redux for state management . material ui for design\n",
+      "category": "Todos",
+      "id": 6
+    },
+    {
+      "title": "Atomic Habits",
+      "detail": "create a advance project using mern stack . include features like authentication and authorization with jwt and bycrpt , otp verification with twilio , state management using redux.js , create server using express.js , use cdn for storing medias , use react as frontend framework, material ui as designing the website, include forgot password , email verification etc....",
+      "category": "Money",
+      "id": 7
+    },
+    {
+      "title": "You Cant Hurt Me",
+      "detail": "create a advance project using mern stack . include features like authentication and authorization with jwt and bycrpt , otp verification with twilio , state management using redux.js , create server using express.js , use cdn for storing medias , use react as frontend framework, material ui as designing the website, include forgot password , email verification etc...",
+      "category": "Remainder",
+      "id": 8
+    }
+  ]
+}

@@ -3,11 +3,19 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import ThemeProvide from '@mui/material/styles/ThemeProvider'
+import theme from './themes/theme';
+import { Provider } from "react-redux"
+import { store } from './redex/store';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <ThemeProvide theme={theme}>
+      <Provider store={store}>
+         <App />
+      </Provider>
+    </ThemeProvide>
   </React.StrictMode>
 );
 
